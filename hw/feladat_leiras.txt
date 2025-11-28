@@ -1,0 +1,35 @@
+A tantárgy teljesítésének első lépése egy részletes feltáró adatelemzés (EDA) elkészítése. Az EDA leadása kötelező, ennek elfogadása szükséges ahhoz, hogy a hallgató a félév végén vizsgázhasson. A beadott munkára az oktatók „elfogadva / nem elfogadva” minősítést adnak. Csak az „elfogadva” minősítést kapó EDA alapján lehet vizsgára jelentkezni.
+
+A feltáró adatelemzés eredményeit egy Jupyter notebookban kell dokumentálni. A notebooknak az alábbiakat kötelezően tartalmaznia kell:
+
+A használt adathalmaz bemutatása
+    az adatok forrása és szerkezete
+    saját adat esetén a fájl vagy az adatszerkezet leírása.
+
+Adathalmaz értelmezése 
+    jellemzők értelmezése:
+        jelentés, tartalom
+        típus (analitikai, illetve programozási típus)
+        értékkészlet (intervallumok, különböző kategóriák)
+    rekordok értelmezése
+        duplikátumok száma, jelentése
+        hiányzó mezők száma, aránya
+
+Kezdeti adatvizualizációk
+    eloszlások, alapvető grafikonok, áttekintő ábrák.
+
+Összefüggések feltárása
+    korrelációk, releváns kapcsolatok, érdekes megfigyelések kiemelése
+
+Kezdeti hipotézisek megfogalmazása 
+    legalább néhány vizsgálandó kapcsolat vagy feltevés
+    ezek később módosíthatók, de iránymutatásként szolgáljanak.
+    
+Érthető szöveges magyarázat
+    a notebook legyen kommentelve vagy külön szöveges cellákkal tagolt,
+    nem kell minden kódsort magyarázni, de a lényeges lépések érthetően legyenek elmagyarázva.
+    a főbb elemzési lépések után röviden értékeljétek a kapott eredményeket és vonjátok le a releváns következtetéseket.
+
+A notebookot .ipynb formátumban kell feltölteni.
+Saját adathalmaz esetén mellékeljétek a fájlt vagy az adatszerkezet leírását. Ha az adatszerkezet mérete meghaladja az 50 MB-ot, akkor a forrás linkjét adjátok meg, vagy töltsétek fel Drive-ra, és osszátok meg annak hivatkozását.
+A dokumentumnak áttekinthetőnek és újrafuttathatónak kell lennie.
